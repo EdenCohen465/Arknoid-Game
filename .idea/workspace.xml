@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="866bc4f7-2b12-4095-9d72-4a7d8daa111a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1r9wEaZGQp20CYdxRyvbSfqlLBH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../biuoop.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\97252\OneDrive - Bar-Ilan University\OOP\ass3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ass6Game">
+    <configuration name="Ass6Game" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ass6Game" />
+      <module name="ass3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BlockTest" />
+      <module name="ass3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameEnvTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GameEnvTest" />
+      <module name="ass3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ass5Game" />
+      <module name="ass3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RectangleTest" />
+      <module name="ass3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RectangleTest" />
+      <item itemvalue="Application.Ass6Game" />
+      <item itemvalue="Application.BlockTest" />
+      <item itemvalue="Application.GameEnvTest" />
+      <item itemvalue="Application.GameTest" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="866bc4f7-2b12-4095-9d72-4a7d8daa111a" name="Default Changelist" comment="" />
+      <created>1618401506697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618401506697</updated>
+      <workItem from="1618401509598" duration="3813000" />
+      <workItem from="1618411453668" duration="5257000" />
+      <workItem from="1618475875478" duration="1961000" />
+      <workItem from="1618494413797" duration="9038000" />
+      <workItem from="1618560919506" duration="1826000" />
+      <workItem from="1618642593594" duration="29539000" />
+      <workItem from="1618736451806" duration="3830000" />
+      <workItem from="1618753332422" duration="4558000" />
+      <workItem from="1618770952656" duration="693000" />
+      <workItem from="1618816775463" duration="4670000" />
+      <workItem from="1618896149746" duration="3229000" />
+      <workItem from="1618905257831" duration="1672000" />
+      <workItem from="1618908653986" duration="2751000" />
+      <workItem from="1618917134955" duration="7736000" />
+      <workItem from="1618933555767" duration="1813000" />
+      <workItem from="1618985030724" duration="11736000" />
+      <workItem from="1619002222210" duration="7808000" />
+      <workItem from="1619022654285" duration="1570000" />
+      <workItem from="1619087710886" duration="10869000" />
+      <workItem from="1619186212442" duration="2438000" />
+      <workItem from="1619434412464" duration="71000" />
+      <workItem from="1619434558384" duration="20000" />
+      <workItem from="1619459030379" duration="368000" />
+      <workItem from="1619504050338" duration="921000" />
+      <workItem from="1621504510752" duration="21000" />
+      <workItem from="1621505488271" duration="79000" />
+      <workItem from="1621506340996" duration="5018000" />
+      <workItem from="1621513011667" duration="1910000" />
+      <workItem from="1621519870017" duration="546000" />
+      <workItem from="1621579506561" duration="15231000" />
+      <workItem from="1621672004456" duration="9233000" />
+      <workItem from="1621701244867" duration="963000" />
+      <workItem from="1621708363417" duration="611000" />
+      <workItem from="1621931812684" duration="1553000" />
+      <workItem from="1622352238736" duration="2390000" />
+      <workItem from="1623157580011" duration="39000" />
+      <workItem from="1623158905455" duration="3749000" />
+      <workItem from="1623167988207" duration="7465000" />
+      <workItem from="1623340311615" duration="7404000" />
+      <workItem from="1623401087646" duration="3677000" />
+      <workItem from="1623427060670" duration="395000" />
+      <workItem from="1623649866952" duration="802000" />
+      <workItem from="1623677930122" duration="826000" />
+      <workItem from="1624188705098" duration="2106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
